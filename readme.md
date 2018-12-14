@@ -19,5 +19,5 @@
 
 ## 演示
 
- ![image](https://github.com/masterZSH/dy/three/master/src/1.gif)
+ ![image](https://github.com/masterZSH/dy/blob/master/res/1.gif)
 
