@@ -24,6 +24,12 @@ cd dy
 
 pm2 start dy -i 4   // 可以借助pm2实现多进程抓取
 
+## 说明
+
+1. 仅供参考使用
+
+2. 喜欢的请点个星吧^_^
+
 ## 演示
 
  ![image](https://github.com/masterZSH/dy/blob/master/res/1.gif)
